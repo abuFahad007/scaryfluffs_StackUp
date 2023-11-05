@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS `geeklogin` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `geeklogin`;
+CREATE DATABASE IF NOT EXISTS `mindspacedb` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `mindspacedb`;
 
 create table if not exists `accounts` (
 `id` int(11) not null auto_increment,
