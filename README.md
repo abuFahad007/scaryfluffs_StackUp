@@ -2,3 +2,6 @@
 # WriteWise: The Blog Post Forge
 A blogging site where you can write and post your blogs
 
+#### Note:
+under development
+
