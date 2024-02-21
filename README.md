@@ -2,5 +2,5 @@
 # Project Name
 WriteWise: The Blog Post Forge
 # Description
-A blogging site where u can write and post ur blogs
+A blogging site where you can write and post your blogs
 
